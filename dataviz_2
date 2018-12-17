@@ -1,0 +1,5 @@
+After scrapping the original proposal I decided to use the api for the website LastFM which brings in data for popularity 
+of songs and artist based on streaming. I wanted to designed my "game" to take the most popular song from my favorite band
+and display the song's name and the number of times the song was streamed.
+I was successful in making the API work in unity and it displayed onto the console but I did not know how i can translate 
+whatever was on the console to the game scene.
